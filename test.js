@@ -1,5 +1,5 @@
-function calculateArea(width, height) {
-  const area = width * height;
+function calculateArea(width, size) {
+  const area = width * size;
   console.log(`Area is ${area}`);
   return area;
 }
